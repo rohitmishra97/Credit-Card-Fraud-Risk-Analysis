@@ -78,7 +78,8 @@ Fraud peaks during March and June, indicating seasonal vulnerabilities.
 Over 42% of transactions were classified as Low Risk, but 10.7% were Critical and require urgent intervention.
 
 📎 How to Run
-git clone https://github.com/your-username/Credit-Card-Fraud-Risk-PowerBI.git
+git clone 
+https://github.com/your-username/Credit-Card-Fraud-Risk-PowerBI.git
 
 Open CreditCardFraud.pbix in Power BI Desktop
 
