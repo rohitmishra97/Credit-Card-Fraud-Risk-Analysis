@@ -45,7 +45,6 @@ Month
 
 Is_Fraud
 
-Note: The dataset is not real and is used for educational purposes only.
 
 ⚙️ Tools Used
 Power BI Desktop
